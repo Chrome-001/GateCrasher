@@ -261,7 +261,7 @@ export GC_OUTPUT=html
 
 ## Support
 
-If you find ZeroHunt useful, consider supporting development:
+If you find Gate-Crasher useful, consider supporting development:
 
 [![Donate via PayPal](https://img.shields.io/badge/Donate-PayPal-blue?logo=paypal)](https://paypal.me/chrome001)
 
