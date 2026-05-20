@@ -264,6 +264,7 @@ export GC_OUTPUT=html
 If you find Gate-Crasher useful, consider supporting development:
 
 [![Donate via PayPal](https://img.shields.io/badge/Donate-PayPal-blue?logo=paypal)](https://paypal.me/chrome001)
+[![Ko-fi](https://img.shields.io/badge/Support-Ko--fi-FF5E5B?logo=ko-fi&logoColor=white)](https://ko-fi.com/chrome001) 
 
 ---
 
